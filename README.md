@@ -1,29 +1,29 @@
-# 🧠 Mental Health Support Chatbot
+# Mental Health Support Chatbot
 
 A smart and emotionally intelligent **mental health chatbot** that interacts with users, detects sentiment, and predicts if they may require mental health treatment using a machine learning model.
 
 ---
 
-## 💡 Project Overview
+## Project Overview
 
 This chatbot guides users through a series of mental health-related questions. It analyzes their emotional tone using **VADER Sentiment Analysis** and uses a **Machine Learning classifier** trained on real-world mental health survey data to predict whether the user may need treatment.
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🧠 **Sentiment Detection** using VADER
-- 📊 **ML-based prediction** for mental health treatment
-- 🧾 **Personalized summary report** for each session
-- 💬 **Conversation memory** (remembers user's name)
-- 🔁 **Looping interaction** with option to restart
-- 🎨 Clean UI with emojis and clear prompts
-- 🔒 No API used — works completely offline
-- 📂 Trained on mental health dataset from Kaggle
+- **Sentiment Detection** using VADER
+- **ML-based prediction** for mental health treatment
+- **Personalized summary report** for each session
+- **Conversation memory** (remembers user's name)
+- **Looping interaction** with option to restart
+-  Clean UI with emojis and clear prompts
+-  No API used — works completely offline
+-  Trained on mental health dataset from Kaggle
 
 ---
 
-## 🧪 Tech Stack
+##  Tech Stack
 
 - **Python**
 - `scikit-learn` – Model training and prediction
@@ -34,7 +34,7 @@ This chatbot guides users through a series of mental health-related questions. I
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 mental_health_chatbot/
 │
@@ -53,7 +53,7 @@ mental_health_chatbot/
 
 ---
 
-## 🚀 How to Run the Chatbot
+##  How to Run the Chatbot
 
 ```bash
 # Step 1: Create a virtual environment (Optional but recommended)
@@ -81,4 +81,5 @@ Name: avni soni
 Project: mental health chatbot
 
 GitHub: avnisoni01
+
 
